@@ -1,0 +1,31 @@
+header {
+    background-color: #15232C;
+    color: white;
+}
+footer {
+    background-color: #173040;
+    color: white;
+}
+footer a{
+    color: white;
+}
+article {
+    background-color: #8C711F;
+    border-color: white; 
+    color: white;
+}
+
+.column-flex {
+    background-color: #265573;
+}
+
+
+/* cores:
+
+#265573
+#173040
+#15232C
+#177325
+#8C711F
+
+*/
