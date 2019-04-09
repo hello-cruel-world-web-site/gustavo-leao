@@ -9,11 +9,20 @@ footer {
 a{
     color: white;
 }
+footer a img:hover{
+    opacity:0.55;
+    
+}
 article {
     background-color: #8C711F;
     border-color: white; 
     color: white;
 }
+article ul li:hover{
+    opacity: 0.55;
+}
+
+
 
 .column-flex {
     background-color: #265573;
@@ -23,6 +32,7 @@ article {
     background-color: #8C711F;
     border: #8C711F; 
 }
+
 
 /* cores:
 
