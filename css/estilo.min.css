@@ -43,3 +43,22 @@ article {
     padding: 16px;
     margin: 1px;
 }
+.text-right {
+    text-align: right;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.btn {
+    border: 1px solid;
+    padding: 16px;
+    border-radius: 50%;
+}
+
+
+.text-tiny {
+    font-size: 10px;
+}
+
