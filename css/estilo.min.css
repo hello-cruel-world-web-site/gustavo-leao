@@ -42,6 +42,8 @@ article {
 .column-flex {
     padding: 16px;
     margin: 1px;
+    width: 250px;
+    text-align: left;
 }
 .text-right {
     text-align: right;
