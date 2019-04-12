@@ -1,3 +1,10 @@
+.text-red {
+    color: red;
+}
+.text-blue {
+    color: blue;
+}
+
 header {
     background-color: #15232C;
     color: white;
@@ -32,6 +39,7 @@ article ul li:hover{
     background-color: #8C711F;
     border: #8C711F; 
 }
+
 
 
 /* cores:
