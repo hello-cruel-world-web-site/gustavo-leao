@@ -42,7 +42,11 @@ article {
 .column-flex {
     padding: 16px;
     margin: 1px;
+<<<<<<< HEAD
     width: 300px;
+=======
+    width: 250px;
+>>>>>>> 704d9a9e6f5a78d95b2bb8febf8666bb0f1d6fb1
     text-align: left;
 }
 .text-right {
